@@ -1,0 +1,601 @@
+ticket_text,category,priority
+Is there a student discount available for the Starter tier,Product,medium
+Does the product support integration with Zapier,Product,medium
+How do I update my shipping address to Bangalore,Account,medium
+I want to change the email address on my account to newmail@example.com,Account,low
+Can I use this software offline without internet,Product,low
+Need a copy of my last twelve invoices for tax purposes,Billing,low
+"Can you verify my account, the badge is missing - this is urgent, please help ASAP",Account,medium
+Is there a mobile app version available for iOS,Product,medium
+"I want to change the email address on my account to newmail@example.com - this is urgent, please help ASAP",Account,medium
+Two-factor authentication code never arrives via email,Technical,medium
+Is there a mobile app version available for Android,Product,low
+"Subscription renewed automatically without my consent - this is very time sensitive, please help ASAP",Billing,high
+Do you offer a free trial before upgrading to Enterprise,Product,low
+The app keeps crashing every time I open the analytics tab,Technical,medium
+"How many users can I add under one license - this is very time sensitive, please help ASAP",Product,medium
+What file formats are supported for export,Product,low
+The reports module throws an error every time I click save,Technical,medium
+Unable to change my password from the settings page,Account,low
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+Page is loading extremely slowly on Safari,Technical,low
+"I was charged twice for my Basic subscription this month - this is very time sensitive, please help ASAP",Billing,high
+Does the Enterprise plan include access to premium templates,Product,low
+"Need to merge two accounts into one under personal@example.com - this is urgent, please help ASAP",Account,medium
+"I was charged twice for my Starter subscription this month - this is very time sensitive, please help ASAP",Billing,high
+"Need a copy of my last three invoices for tax purposes - this is very time sensitive, please help ASAP",Billing,high
+I'm being charged for a plan I already downgraded from,Billing,high
+"Can you verify my account, the badge is missing",Account,medium
+"Subscription renewed automatically without my consent - this is very time sensitive, please help ASAP",Billing,high
+Can I customize the billing dashboard layout,Product,low
+"Sync between devices stopped working after the last update - this is critical, please help ASAP",Technical,high
+"I'm being charged for a plan I already downgraded from - this is urgent, please help ASAP",Billing,high
+Does the product support integration with Slack,Product,low
+"Website is completely down, cannot access dashboard - this is critical, please help ASAP",Technical,high
+Why was I billed after canceling my Starter plan,Billing,medium
+Can you explain the extra $19.99 fee on my latest bill,Billing,medium
+"Please help me delete my account permanently - this is very time sensitive, please help ASAP",Account,medium
+My account was suspended for no clear reason,Account,medium
+Is there a student discount available for the Pro tier,Product,low
+My account was suspended for no clear reason,Account,medium
+"Can you verify my account, the badge is missing - this is urgent, please help ASAP",Account,medium
+I'm being charged for a plan I already downgraded from,Billing,high
+Does the Premium plan include access to premium templates,Product,low
+Need a copy of my last six invoices for tax purposes,Billing,low
+"Unable to change my password from the settings page - this is very time sensitive, please help ASAP",Account,medium
+Refund request for order #10043 that never arrived,Billing,low
+Someone else may have accessed my account without permission,Account,medium
+Getting a 500 error when I try to upload a Excel file,Technical,low
+"My profile picture upload keeps failing - this is critical, please help ASAP",Account,medium
+Sync between devices stopped working after the last update,Technical,low
+Do you offer a free trial before upgrading to Premium,Product,low
+"My invoice shows an incorrect amount of $12.00, please fix it - this is critical, please help ASAP",Billing,high
+The billing module throws an error every time I click save,Technical,low
+I'm being charged for a plan I already downgraded from,Billing,high
+The app keeps crashing every time I open the reports tab,Technical,low
+Export feature is broken and downloads empty Excel files,Technical,high
+"Need a copy of my last twelve invoices for tax purposes - this is critical, please help ASAP",Billing,high
+Can I use this software offline without internet,Product,low
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+Subscription renewed automatically without my consent,Billing,medium
+The app keeps crashing every time I open the billing tab,Technical,low
+How do I update my shipping address to Bangalore,Account,low
+"Can you verify my account, the badge is missing",Account,low
+Refund request for order #10043 that never arrived,Billing,medium
+What is the difference between the Starter and enterprise plans,Product,low
+"Sync between devices stopped working after the last update - this is critical, please help ASAP",Technical,high
+Two-factor authentication code never arrives via SMS,Technical,medium
+Why was I billed after canceling my Basic plan,Billing,low
+"How many users can I add under one license - this is critical, please help ASAP",Product,medium
+The reports module throws an error every time I click save,Technical,medium
+I forgot my username and need help recovering it,Account,low
+"Can you verify my account, the badge is missing",Account,low
+"Two-factor authentication code never arrives via SMS - this is urgent, please help ASAP",Technical,high
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+I forgot my username and need help recovering it,Account,low
+"Does the Pro plan include access to premium templates - this is very time sensitive, please help ASAP",Product,medium
+Unable to change my password from the settings page,Account,low
+"Unable to change my password from the settings page - this is critical, please help ASAP",Account,medium
+Does the Pro plan include access to premium templates,Product,medium
+"Do you offer a free trial before upgrading to Basic - this is urgent, please help ASAP",Product,medium
+Need to merge two accounts into one under work@example.com,Account,medium
+Can I use this software offline without internet,Product,medium
+I want to change the email address on my account to newmail@example.com,Account,low
+Why was I billed after canceling my Enterprise plan,Billing,medium
+The discount code SUMMER25 did not apply to my order total,Billing,low
+"I'm being charged for a plan I already downgraded from - this is very time sensitive, please help ASAP",Billing,high
+Does the product support integration with Microsoft Teams,Product,medium
+Please help me delete my account permanently,Account,low
+The mobile app is stuck on the loading screen since yesterday,Technical,low
+Two-factor authentication code never arrives via SMS,Technical,medium
+Does the product support integration with Google Drive,Product,medium
+"Export feature is broken and downloads empty CSV files - this is very time sensitive, please help ASAP",Technical,high
+Do you offer a free trial before upgrading to Basic,Product,low
+"The app keeps crashing every time I open the export tab - this is urgent, please help ASAP",Technical,high
+I was charged twice for my Starter subscription this month,Billing,low
+"How many users can I add under one license - this is very time sensitive, please help ASAP",Product,medium
+Do you offer a free trial before upgrading to Pro,Product,medium
+I want to change the email address on my account to work@example.com,Account,low
+Why was I billed after canceling my Premium plan,Billing,medium
+Is there a student discount available for the Pro tier,Product,low
+"I want to change the email address on my account to work@example.com - this is urgent, please help ASAP",Account,medium
+Is there a mobile app version available for iOS,Product,low
+Sync between devices stopped working after the last update,Technical,medium
+Can I customize the dashboard dashboard layout,Product,low
+"I was charged twice for my Pro subscription this month - this is urgent, please help ASAP",Billing,high
+I forgot my username and need help recovering it,Account,low
+"How do I update my shipping address to Chennai - this is urgent, please help ASAP",Account,medium
+"Export feature is broken and downloads empty PDF files - this is critical, please help ASAP",Technical,high
+The discount code SUMMER25 did not apply to my order total,Billing,medium
+Need to merge two accounts into one under newmail@example.com,Account,low
+The app keeps crashing every time I open the analytics tab,Technical,medium
+"Website is completely down, cannot access dashboard - this is urgent, please help ASAP",Technical,high
+Need to merge two accounts into one under personal@example.com,Account,low
+Does the product support integration with Slack,Product,low
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+Two-factor authentication code never arrives via email,Technical,low
+"The mobile app is stuck on the loading screen since this morning - this is critical, please help ASAP",Technical,high
+"Subscription renewed automatically without my consent - this is urgent, please help ASAP",Billing,high
+"Refund request for order #10062 that never arrived - this is urgent, please help ASAP",Billing,high
+Why was I billed after canceling my Basic plan,Billing,medium
+What is the difference between the Starter and enterprise plans,Product,low
+Getting a 500 error when I try to upload a CSV file,Technical,low
+Can I use this software offline without internet,Product,medium
+Subscription renewed automatically without my consent,Billing,medium
+"I cannot log into my account, it says invalid password - this is very time sensitive, please help ASAP",Technical,high
+I'm being charged for a plan I already downgraded from,Billing,high
+Can you explain the extra $12.00 fee on my latest bill,Billing,medium
+Export feature is broken and downloads empty CSV files,Technical,high
+Can I customize the dashboard dashboard layout,Product,medium
+Does the product support integration with Zapier,Product,low
+Payment failed but $12.00 was deducted from my account,Billing,low
+Need a copy of my last twelve invoices for tax purposes,Billing,medium
+My account was suspended for no clear reason,Account,medium
+Please help me delete my account permanently,Account,low
+"Can you verify my account, the badge is missing",Account,low
+"Two-factor authentication code never arrives via authenticator app - this is very time sensitive, please help ASAP",Technical,high
+"How many users can I add under one license - this is critical, please help ASAP",Product,medium
+The mobile app is stuck on the loading screen since yesterday,Technical,medium
+Getting a 500 error when I try to upload a CSV file,Technical,medium
+"My invoice shows an incorrect amount of $12.00, please fix it",Billing,medium
+The discount code SUMMER25 did not apply to my order total,Billing,medium
+Can you explain the extra $49.00 fee on my latest bill,Billing,low
+Is there a student discount available for the Basic tier,Product,low
+"What is the difference between the Starter and enterprise plans - this is very time sensitive, please help ASAP",Product,medium
+"Is there a mobile app version available for Android - this is very time sensitive, please help ASAP",Product,medium
+"Refund request for order #10089 that never arrived - this is critical, please help ASAP",Billing,high
+Page is loading extremely slowly on Chrome,Technical,low
+"Export feature is broken and downloads empty Excel files - this is very time sensitive, please help ASAP",Technical,high
+I'm being charged for a plan I already downgraded from,Billing,high
+Can you explain the extra $99.50 fee on my latest bill,Billing,low
+"I was charged twice for my Premium subscription this month - this is urgent, please help ASAP",Billing,high
+"Is there a student discount available for the Starter tier - this is critical, please help ASAP",Product,medium
+"Can you verify my account, the badge is missing",Account,medium
+"Do you offer a free trial before upgrading to Enterprise - this is very time sensitive, please help ASAP",Product,medium
+"How do I update my shipping address to Chennai - this is urgent, please help ASAP",Account,medium
+Please help me delete my account permanently,Account,low
+How do I update my shipping address to Chennai,Account,medium
+Does the product support integration with Zapier,Product,medium
+"Need to merge two accounts into one under personal@example.com - this is very time sensitive, please help ASAP",Account,medium
+"Website is completely down, cannot access dashboard",Technical,high
+Subscription renewed automatically without my consent,Billing,low
+Why was I billed after canceling my Starter plan,Billing,medium
+Two-factor authentication code never arrives via email,Technical,medium
+"Unable to change my password from the settings page - this is urgent, please help ASAP",Account,medium
+Subscription renewed automatically without my consent,Billing,medium
+"Page is loading extremely slowly on Edge - this is urgent, please help ASAP",Technical,high
+"I was charged twice for my Pro subscription this month - this is urgent, please help ASAP",Billing,high
+"Sync between devices stopped working after the last update - this is urgent, please help ASAP",Technical,high
+Does the Enterprise plan include access to premium templates,Product,low
+I was charged twice for my Enterprise subscription this month,Billing,medium
+Do you offer a free trial before upgrading to Enterprise,Product,medium
+"Export feature is broken and downloads empty Excel files - this is critical, please help ASAP",Technical,high
+"I was charged twice for my Premium subscription this month - this is urgent, please help ASAP",Billing,high
+Refund request for order #10040 that never arrived,Billing,medium
+"Can I use this software offline without internet - this is critical, please help ASAP",Product,medium
+Why was I billed after canceling my Starter plan,Billing,medium
+Why was I billed after canceling my Pro plan,Billing,low
+"What is the difference between the Pro and enterprise plans - this is very time sensitive, please help ASAP",Product,medium
+Is there a mobile app version available for Android,Product,low
+Does the product support integration with Google Drive,Product,low
+"I cannot log into my account, it says invalid password",Technical,medium
+"Can I customize the reports dashboard layout - this is urgent, please help ASAP",Product,medium
+"Can you verify my account, the badge is missing",Account,low
+Can you explain the extra $150.00 fee on my latest bill,Billing,low
+"My profile picture upload keeps failing - this is critical, please help ASAP",Account,medium
+Payment failed but $99.50 was deducted from my account,Billing,medium
+"Is there a mobile app version available for iOS - this is critical, please help ASAP",Product,medium
+Page is loading extremely slowly on Safari,Technical,low
+Refund request for order #10079 that never arrived,Billing,medium
+"How do I update my shipping address to Chennai - this is urgent, please help ASAP",Account,medium
+"Unable to change my password from the settings page - this is urgent, please help ASAP",Account,medium
+Can I customize the analytics dashboard layout,Product,low
+Can you explain the extra $49.00 fee on my latest bill,Billing,low
+"My invoice shows an incorrect amount of $150.00, please fix it - this is critical, please help ASAP",Billing,high
+Is there a student discount available for the Premium tier,Product,low
+Sync between devices stopped working after the last update,Technical,medium
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+Subscription renewed automatically without my consent,Billing,medium
+"Getting a 500 error when I try to upload a CSV file - this is urgent, please help ASAP",Technical,high
+"I cannot log into my account, it says invalid password",Technical,medium
+"Can you verify my account, the badge is missing",Account,medium
+My profile picture upload keeps failing,Account,low
+Sync between devices stopped working after the last update,Technical,medium
+"Unable to change my password from the settings page - this is critical, please help ASAP",Account,medium
+Is there a student discount available for the Basic tier,Product,low
+"Unable to change my password from the settings page - this is very time sensitive, please help ASAP",Account,medium
+Payment failed but $49.00 was deducted from my account,Billing,low
+Need to merge two accounts into one under work@example.com,Account,low
+I forgot my username and need help recovering it,Account,low
+"Page is loading extremely slowly on Safari - this is critical, please help ASAP",Technical,high
+"Getting a 500 error when I try to upload a PDF file - this is very time sensitive, please help ASAP",Technical,high
+Page is loading extremely slowly on Edge,Technical,low
+Is there a student discount available for the Starter tier,Product,low
+"My invoice shows an incorrect amount of $12.00, please fix it - this is critical, please help ASAP",Billing,high
+"The app keeps crashing every time I open the reports tab - this is critical, please help ASAP",Technical,high
+Unable to change my password from the settings page,Account,low
+"Unable to change my password from the settings page - this is urgent, please help ASAP",Account,medium
+The export module throws an error every time I click save,Technical,medium
+"Need to merge two accounts into one under personal@example.com - this is urgent, please help ASAP",Account,medium
+Need a copy of my last six invoices for tax purposes,Billing,low
+How do I update my shipping address to Delhi,Account,medium
+Need to merge two accounts into one under personal@example.com,Account,medium
+"My invoice shows an incorrect amount of $150.00, please fix it - this is urgent, please help ASAP",Billing,high
+"Website is completely down, cannot access dashboard - this is critical, please help ASAP",Technical,high
+Can I use this software offline without internet,Product,low
+"The mobile app is stuck on the loading screen since yesterday - this is urgent, please help ASAP",Technical,high
+Page is loading extremely slowly on Edge,Technical,medium
+"Can you verify my account, the badge is missing - this is critical, please help ASAP",Account,medium
+"Website is completely down, cannot access dashboard - this is critical, please help ASAP",Technical,high
+"My invoice shows an incorrect amount of $19.99, please fix it",Billing,medium
+Does the product support integration with Slack,Product,medium
+Do you offer a free trial before upgrading to Basic,Product,low
+"Two-factor authentication code never arrives via authenticator app - this is urgent, please help ASAP",Technical,high
+Page is loading extremely slowly on Firefox,Technical,low
+Getting a 500 error when I try to upload a Excel file,Technical,low
+Please help me delete my account permanently,Account,low
+The app keeps crashing every time I open the reports tab,Technical,medium
+The mobile app is stuck on the loading screen since yesterday,Technical,medium
+"How do I update my shipping address to Bangalore - this is urgent, please help ASAP",Account,medium
+I want to change the email address on my account to work@example.com,Account,low
+Refund request for order #10028 that never arrived,Billing,medium
+Unable to change my password from the settings page,Account,low
+Export feature is broken and downloads empty CSV files,Technical,high
+I forgot my username and need help recovering it,Account,medium
+Need a copy of my last twelve invoices for tax purposes,Billing,medium
+"The mobile app is stuck on the loading screen since yesterday - this is very time sensitive, please help ASAP",Technical,high
+"Website is completely down, cannot access dashboard",Technical,high
+The app keeps crashing every time I open the billing tab,Technical,medium
+Sync between devices stopped working after the last update,Technical,low
+Two-factor authentication code never arrives via SMS,Technical,medium
+My profile picture upload keeps failing,Account,low
+The mobile app is stuck on the loading screen since this morning,Technical,medium
+"The billing module throws an error every time I click save - this is urgent, please help ASAP",Technical,high
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+"Getting a 500 error when I try to upload a PDF file - this is critical, please help ASAP",Technical,high
+How do I update my shipping address to Bangalore,Account,low
+"Someone else may have accessed my account without permission - this is very time sensitive, please help ASAP",Account,medium
+My profile picture upload keeps failing,Account,low
+Can I use this software offline without internet,Product,low
+"Two-factor authentication code never arrives via SMS - this is urgent, please help ASAP",Technical,high
+"I'm being charged for a plan I already downgraded from - this is very time sensitive, please help ASAP",Billing,high
+Someone else may have accessed my account without permission,Account,medium
+Unable to change my password from the settings page,Account,medium
+"Can I customize the export dashboard layout - this is urgent, please help ASAP",Product,medium
+How many users can I add under one license,Product,medium
+Does the Premium plan include access to premium templates,Product,medium
+Please help me delete my account permanently,Account,low
+"Payment failed but $150.00 was deducted from my account - this is critical, please help ASAP",Billing,high
+Need to merge two accounts into one under personal@example.com,Account,low
+I forgot my username and need help recovering it,Account,medium
+Is there a student discount available for the Enterprise tier,Product,low
+"Can you verify my account, the badge is missing",Account,low
+What file formats are supported for export,Product,medium
+"Refund request for order #10077 that never arrived - this is urgent, please help ASAP",Billing,high
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+Can I use this software offline without internet,Product,low
+The app keeps crashing every time I open the analytics tab,Technical,medium
+Payment failed but $12.00 was deducted from my account,Billing,medium
+Page is loading extremely slowly on Edge,Technical,low
+Unable to change my password from the settings page,Account,low
+My account was suspended for no clear reason,Account,medium
+"Can you verify my account, the badge is missing - this is very time sensitive, please help ASAP",Account,medium
+"I'm being charged for a plan I already downgraded from - this is very time sensitive, please help ASAP",Billing,high
+"Two-factor authentication code never arrives via authenticator app - this is critical, please help ASAP",Technical,high
+"I cannot log into my account, it says invalid password - this is urgent, please help ASAP",Technical,high
+"Can you verify my account, the badge is missing",Account,medium
+The analytics module throws an error every time I click save,Technical,low
+Can I use this software offline without internet,Product,low
+Is there a mobile app version available for Android,Product,low
+Can I customize the analytics dashboard layout,Product,low
+What is the difference between the Starter and enterprise plans,Product,medium
+"Payment failed but $12.00 was deducted from my account - this is critical, please help ASAP",Billing,high
+"Please help me delete my account permanently - this is urgent, please help ASAP",Account,medium
+What is the difference between the Starter and enterprise plans,Product,low
+The mobile app is stuck on the loading screen since an hour ago,Technical,medium
+Subscription renewed automatically without my consent,Billing,medium
+Can I use this software offline without internet,Product,low
+How do I update my shipping address to Bangalore,Account,low
+Getting a 500 error when I try to upload a CSV file,Technical,medium
+"Website is completely down, cannot access dashboard",Technical,high
+Does the Basic plan include access to premium templates,Product,low
+Getting a 500 error when I try to upload a CSV file,Technical,medium
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+Export feature is broken and downloads empty CSV files,Technical,high
+"Getting a 500 error when I try to upload a CSV file - this is critical, please help ASAP",Technical,high
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+Please help me delete my account permanently,Account,low
+Export feature is broken and downloads empty Excel files,Technical,high
+What file formats are supported for export,Product,low
+"Payment failed but $12.00 was deducted from my account - this is critical, please help ASAP",Billing,high
+Getting a 500 error when I try to upload a PDF file,Technical,medium
+"I cannot log into my account, it says invalid password",Technical,low
+"The mobile app is stuck on the loading screen since an hour ago - this is critical, please help ASAP",Technical,high
+Subscription renewed automatically without my consent,Billing,low
+"Can I customize the billing dashboard layout - this is very time sensitive, please help ASAP",Product,medium
+"Can you verify my account, the badge is missing",Account,low
+"Can you verify my account, the badge is missing - this is urgent, please help ASAP",Account,medium
+Someone else may have accessed my account without permission,Account,medium
+"Refund request for order #10056 that never arrived - this is urgent, please help ASAP",Billing,high
+"The analytics module throws an error every time I click save - this is urgent, please help ASAP",Technical,high
+"My invoice shows an incorrect amount of $49.00, please fix it",Billing,low
+"Does the Enterprise plan include access to premium templates - this is urgent, please help ASAP",Product,medium
+What is the difference between the Starter and enterprise plans,Product,medium
+How do I update my shipping address to Chennai,Account,low
+Refund request for order #10035 that never arrived,Billing,medium
+Can I customize the billing dashboard layout,Product,low
+I want to change the email address on my account to newmail@example.com,Account,low
+Refund request for order #10086 that never arrived,Billing,medium
+"Can you verify my account, the badge is missing",Account,low
+I'm being charged for a plan I already downgraded from,Billing,high
+Can I customize the reports dashboard layout,Product,medium
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+Page is loading extremely slowly on Edge,Technical,medium
+The app keeps crashing every time I open the analytics tab,Technical,low
+"I cannot log into my account, it says invalid password",Technical,medium
+"Can you verify my account, the badge is missing - this is urgent, please help ASAP",Account,medium
+Sync between devices stopped working after the last update,Technical,medium
+"Need a copy of my last three invoices for tax purposes - this is critical, please help ASAP",Billing,high
+"What is the difference between the Basic and enterprise plans - this is very time sensitive, please help ASAP",Product,medium
+"The app keeps crashing every time I open the billing tab - this is critical, please help ASAP",Technical,high
+I forgot my username and need help recovering it,Account,low
+I forgot my username and need help recovering it,Account,low
+Need a copy of my last six invoices for tax purposes,Billing,medium
+My profile picture upload keeps failing,Account,low
+What file formats are supported for export,Product,medium
+My profile picture upload keeps failing,Account,low
+Refund request for order #10076 that never arrived,Billing,low
+How many users can I add under one license,Product,low
+Is there a mobile app version available for iOS,Product,low
+Can you explain the extra $49.00 fee on my latest bill,Billing,low
+Can I use this software offline without internet,Product,medium
+"Can you verify my account, the badge is missing",Account,medium
+Is there a student discount available for the Premium tier,Product,low
+Can you explain the extra $49.00 fee on my latest bill,Billing,medium
+How do I update my shipping address to Mumbai,Account,low
+Payment failed but $99.50 was deducted from my account,Billing,low
+Need to merge two accounts into one under newmail@example.com,Account,low
+Does the product support integration with Google Drive,Product,low
+I'm being charged for a plan I already downgraded from,Billing,high
+"Can I use this software offline without internet - this is very time sensitive, please help ASAP",Product,medium
+The app keeps crashing every time I open the export tab,Technical,low
+Is there a student discount available for the Premium tier,Product,low
+"How do I update my shipping address to Delhi - this is critical, please help ASAP",Account,medium
+I forgot my username and need help recovering it,Account,low
+"I cannot log into my account, it says invalid password",Technical,low
+"I cannot log into my account, it says invalid password",Technical,medium
+Need a copy of my last twelve invoices for tax purposes,Billing,low
+I want to change the email address on my account to newmail@example.com,Account,low
+"Need to merge two accounts into one under work@example.com - this is urgent, please help ASAP",Account,medium
+"Website is completely down, cannot access dashboard",Technical,high
+The app keeps crashing every time I open the analytics tab,Technical,medium
+Unable to change my password from the settings page,Account,low
+Can I customize the billing dashboard layout,Product,medium
+I forgot my username and need help recovering it,Account,medium
+"Someone else may have accessed my account without permission - this is very time sensitive, please help ASAP",Account,medium
+"Can you explain the extra $99.50 fee on my latest bill - this is critical, please help ASAP",Billing,high
+I was charged twice for my Premium subscription this month,Billing,medium
+Can I use this software offline without internet,Product,low
+"I was charged twice for my Basic subscription this month - this is very time sensitive, please help ASAP",Billing,high
+Does the Enterprise plan include access to premium templates,Product,low
+Can I customize the analytics dashboard layout,Product,low
+The app keeps crashing every time I open the analytics tab,Technical,medium
+My profile picture upload keeps failing,Account,medium
+"The mobile app is stuck on the loading screen since yesterday - this is critical, please help ASAP",Technical,high
+The discount code SAVE10 did not apply to my order total,Billing,low
+"Export feature is broken and downloads empty Excel files - this is very time sensitive, please help ASAP",Technical,high
+"What file formats are supported for export - this is critical, please help ASAP",Product,medium
+I was charged twice for my Enterprise subscription this month,Billing,low
+"Can I use this software offline without internet - this is very time sensitive, please help ASAP",Product,medium
+My profile picture upload keeps failing,Account,medium
+Two-factor authentication code never arrives via authenticator app,Technical,low
+"Can I customize the analytics dashboard layout - this is urgent, please help ASAP",Product,medium
+Can I customize the billing dashboard layout,Product,medium
+"Does the Starter plan include access to premium templates - this is critical, please help ASAP",Product,medium
+"I forgot my username and need help recovering it - this is critical, please help ASAP",Account,medium
+"Website is completely down, cannot access dashboard - this is urgent, please help ASAP",Technical,high
+"The mobile app is stuck on the loading screen since yesterday - this is critical, please help ASAP",Technical,high
+What is the difference between the Pro and enterprise plans,Product,low
+Why was I billed after canceling my Pro plan,Billing,medium
+"Sync between devices stopped working after the last update - this is urgent, please help ASAP",Technical,high
+"Can you verify my account, the badge is missing",Account,medium
+My profile picture upload keeps failing,Account,low
+"Can I customize the billing dashboard layout - this is very time sensitive, please help ASAP",Product,medium
+Please help me delete my account permanently,Account,medium
+The mobile app is stuck on the loading screen since this morning,Technical,low
+Can I use this software offline without internet,Product,low
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+"Is there a student discount available for the Enterprise tier - this is very time sensitive, please help ASAP",Product,medium
+Payment failed but $150.00 was deducted from my account,Billing,medium
+"Can I use this software offline without internet - this is urgent, please help ASAP",Product,medium
+"I cannot log into my account, it says invalid password",Technical,medium
+"Website is completely down, cannot access dashboard",Technical,high
+Does the Premium plan include access to premium templates,Product,medium
+Someone else may have accessed my account without permission,Account,medium
+Please help me delete my account permanently,Account,low
+I forgot my username and need help recovering it,Account,medium
+Please help me delete my account permanently,Account,low
+What is the difference between the Starter and enterprise plans,Product,low
+"I forgot my username and need help recovering it - this is very time sensitive, please help ASAP",Account,medium
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+Need a copy of my last twelve invoices for tax purposes,Billing,medium
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+Sync between devices stopped working after the last update,Technical,medium
+The discount code WELCOME20 did not apply to my order total,Billing,medium
+What is the difference between the Starter and enterprise plans,Product,medium
+Do you offer a free trial before upgrading to Premium,Product,medium
+"Need a copy of my last six invoices for tax purposes - this is urgent, please help ASAP",Billing,high
+Two-factor authentication code never arrives via authenticator app,Technical,low
+Unable to change my password from the settings page,Account,low
+"Website is completely down, cannot access dashboard",Technical,high
+Page is loading extremely slowly on Firefox,Technical,medium
+How do I update my shipping address to Bangalore,Account,low
+"Refund request for order #10042 that never arrived - this is very time sensitive, please help ASAP",Billing,high
+"Website is completely down, cannot access dashboard",Technical,high
+"I want to change the email address on my account to work@example.com - this is urgent, please help ASAP",Account,medium
+"Two-factor authentication code never arrives via SMS - this is very time sensitive, please help ASAP",Technical,high
+Why was I billed after canceling my Basic plan,Billing,medium
+What is the difference between the Enterprise and enterprise plans,Product,medium
+"Sync between devices stopped working after the last update - this is very time sensitive, please help ASAP",Technical,high
+Someone else may have accessed my account without permission,Account,medium
+Can I customize the export dashboard layout,Product,low
+What is the difference between the Starter and enterprise plans,Product,low
+Please help me delete my account permanently,Account,low
+"Does the Basic plan include access to premium templates - this is critical, please help ASAP",Product,medium
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+Is there a student discount available for the Pro tier,Product,low
+Do you offer a free trial before upgrading to Pro,Product,medium
+Does the product support integration with Microsoft Teams,Product,low
+Refund request for order #10042 that never arrived,Billing,low
+"My invoice shows an incorrect amount of $150.00, please fix it - this is critical, please help ASAP",Billing,high
+"Can you verify my account, the badge is missing",Account,low
+"I cannot log into my account, it says invalid password",Technical,medium
+"My invoice shows an incorrect amount of $12.00, please fix it",Billing,medium
+"Please help me delete my account permanently - this is urgent, please help ASAP",Account,medium
+The mobile app is stuck on the loading screen since an hour ago,Technical,medium
+"Does the Enterprise plan include access to premium templates - this is critical, please help ASAP",Product,medium
+Please help me delete my account permanently,Account,low
+Is there a mobile app version available for Android,Product,low
+Can I customize the export dashboard layout,Product,low
+"Can I use this software offline without internet - this is urgent, please help ASAP",Product,medium
+Sync between devices stopped working after the last update,Technical,low
+I want to change the email address on my account to newmail@example.com,Account,low
+"What is the difference between the Starter and enterprise plans - this is critical, please help ASAP",Product,medium
+Need to merge two accounts into one under personal@example.com,Account,low
+Is there a mobile app version available for iOS,Product,low
+"Sync between devices stopped working after the last update - this is very time sensitive, please help ASAP",Technical,high
+Need to merge two accounts into one under work@example.com,Account,low
+"How do I update my shipping address to Bangalore - this is urgent, please help ASAP",Account,medium
+"Someone else may have accessed my account without permission - this is very time sensitive, please help ASAP",Account,medium
+Page is loading extremely slowly on Edge,Technical,low
+I want to change the email address on my account to personal@example.com,Account,low
+Can I customize the dashboard dashboard layout,Product,medium
+What is the difference between the Enterprise and enterprise plans,Product,low
+"Payment failed but $150.00 was deducted from my account - this is urgent, please help ASAP",Billing,high
+Does the product support integration with Slack,Product,medium
+I want to change the email address on my account to personal@example.com,Account,low
+Please help me delete my account permanently,Account,medium
+"My invoice shows an incorrect amount of $19.99, please fix it - this is urgent, please help ASAP",Billing,high
+"Can you verify my account, the badge is missing - this is critical, please help ASAP",Account,medium
+"Is there a student discount available for the Basic tier - this is very time sensitive, please help ASAP",Product,medium
+Is there a mobile app version available for Android,Product,low
+"Website is completely down, cannot access dashboard",Technical,high
+Refund request for order #10087 that never arrived,Billing,medium
+"My invoice shows an incorrect amount of $12.00, please fix it - this is critical, please help ASAP",Billing,high
+Need to merge two accounts into one under work@example.com,Account,low
+The mobile app is stuck on the loading screen since this morning,Technical,medium
+Is there a mobile app version available for iOS,Product,low
+Refund request for order #10063 that never arrived,Billing,low
+"I want to change the email address on my account to work@example.com - this is urgent, please help ASAP",Account,medium
+"Is there a mobile app version available for iOS - this is very time sensitive, please help ASAP",Product,medium
+"The discount code SAVE10 did not apply to my order total - this is critical, please help ASAP",Billing,high
+Can you explain the extra $150.00 fee on my latest bill,Billing,medium
+"Can I customize the export dashboard layout - this is very time sensitive, please help ASAP",Product,medium
+Need to merge two accounts into one under work@example.com,Account,medium
+"I forgot my username and need help recovering it - this is urgent, please help ASAP",Account,medium
+I'm being charged for a plan I already downgraded from,Billing,high
+Can you explain the extra $19.99 fee on my latest bill,Billing,medium
+Subscription renewed automatically without my consent,Billing,low
+"I cannot log into my account, it says invalid password - this is critical, please help ASAP",Technical,high
+Two-factor authentication code never arrives via SMS,Technical,medium
+"Need a copy of my last six invoices for tax purposes - this is critical, please help ASAP",Billing,high
+"I forgot my username and need help recovering it - this is critical, please help ASAP",Account,medium
+Does the product support integration with Zapier,Product,low
+"The mobile app is stuck on the loading screen since this morning - this is urgent, please help ASAP",Technical,high
+"Export feature is broken and downloads empty CSV files - this is critical, please help ASAP",Technical,high
+"My invoice shows an incorrect amount of $150.00, please fix it",Billing,medium
+How many users can I add under one license,Product,low
+"The mobile app is stuck on the loading screen since this morning - this is very time sensitive, please help ASAP",Technical,high
+Need to merge two accounts into one under personal@example.com,Account,low
+Need a copy of my last six invoices for tax purposes,Billing,medium
+Can you explain the extra $12.00 fee on my latest bill,Billing,medium
+"I cannot log into my account, it says invalid password - this is urgent, please help ASAP",Technical,high
+"I cannot log into my account, it says invalid password",Technical,medium
+What file formats are supported for export,Product,low
+"Website is completely down, cannot access dashboard - this is urgent, please help ASAP",Technical,high
+"Can I customize the billing dashboard layout - this is urgent, please help ASAP",Product,medium
+"My invoice shows an incorrect amount of $12.00, please fix it - this is critical, please help ASAP",Billing,high
+"Website is completely down, cannot access dashboard - this is very time sensitive, please help ASAP",Technical,high
+Is there a student discount available for the Premium tier,Product,low
+Getting a 500 error when I try to upload a CSV file,Technical,medium
+My account was suspended for no clear reason,Account,medium
+"The mobile app is stuck on the loading screen since this morning - this is very time sensitive, please help ASAP",Technical,high
+Subscription renewed automatically without my consent,Billing,medium
+The mobile app is stuck on the loading screen since an hour ago,Technical,medium
+I want to change the email address on my account to work@example.com,Account,low
+"Can I use this software offline without internet - this is urgent, please help ASAP",Product,medium
+The app keeps crashing every time I open the export tab,Technical,low
+"Need a copy of my last twelve invoices for tax purposes - this is critical, please help ASAP",Billing,high
+Please help me delete my account permanently,Account,low
+Why was I billed after canceling my Enterprise plan,Billing,medium
+"I cannot log into my account, it says invalid password",Technical,low
+"What file formats are supported for export - this is critical, please help ASAP",Product,medium
+I want to change the email address on my account to newmail@example.com,Account,low
+"Someone else may have accessed my account without permission - this is urgent, please help ASAP",Account,medium
+How many users can I add under one license,Product,low
+I'm being charged for a plan I already downgraded from,Billing,high
+"I cannot log into my account, it says invalid password",Technical,medium
+Refund request for order #10051 that never arrived,Billing,medium
+"Can you verify my account, the badge is missing",Account,low
+Need to merge two accounts into one under newmail@example.com,Account,low
+I'm being charged for a plan I already downgraded from,Billing,high
+"Subscription renewed automatically without my consent - this is critical, please help ASAP",Billing,high
+Unable to change my password from the settings page,Account,low
+Payment failed but $19.99 was deducted from my account,Billing,medium
+"I'm being charged for a plan I already downgraded from - this is critical, please help ASAP",Billing,high
+"I cannot log into my account, it says invalid password - this is very time sensitive, please help ASAP",Technical,high
+"Can I customize the reports dashboard layout - this is very time sensitive, please help ASAP",Product,medium
+"Does the product support integration with Google Drive - this is urgent, please help ASAP",Product,medium
+"Need a copy of my last six invoices for tax purposes - this is urgent, please help ASAP",Billing,high
+My profile picture upload keeps failing,Account,low
+Does the product support integration with Zapier,Product,medium
+I forgot my username and need help recovering it,Account,low
+Two-factor authentication code never arrives via email,Technical,medium
+Does the product support integration with Google Drive,Product,medium
+Please help me delete my account permanently,Account,medium
+Why was I billed after canceling my Starter plan,Billing,low
+Need a copy of my last twelve invoices for tax purposes,Billing,low
+Does the product support integration with Zapier,Product,low
+"Subscription renewed automatically without my consent - this is very time sensitive, please help ASAP",Billing,high
+The mobile app is stuck on the loading screen since this morning,Technical,medium
+Please help me delete my account permanently,Account,low
+"My profile picture upload keeps failing - this is urgent, please help ASAP",Account,medium
+"Page is loading extremely slowly on Edge - this is very time sensitive, please help ASAP",Technical,high
+"I was charged twice for my Basic subscription this month - this is critical, please help ASAP",Billing,high
+Is there a student discount available for the Basic tier,Product,medium
+What file formats are supported for export,Product,medium
+"Can you explain the extra $19.99 fee on my latest bill - this is very time sensitive, please help ASAP",Billing,high
+The dashboard module throws an error every time I click save,Technical,medium
+The billing module throws an error every time I click save,Technical,low
+How many users can I add under one license,Product,low
+Getting a 500 error when I try to upload a CSV file,Technical,medium
+"What is the difference between the Pro and enterprise plans - this is urgent, please help ASAP",Product,medium
+Payment failed but $12.00 was deducted from my account,Billing,medium
+Can you explain the extra $19.99 fee on my latest bill,Billing,medium
+How many users can I add under one license,Product,low
+"Can you verify my account, the badge is missing",Account,low
+I forgot my username and need help recovering it,Account,low
+The discount code SUMMER25 did not apply to my order total,Billing,medium
+Is there a student discount available for the Starter tier,Product,low
+How many users can I add under one license,Product,low
+How many users can I add under one license,Product,low
+Is there a student discount available for the Premium tier,Product,medium
+"The discount code SAVE10 did not apply to my order total - this is urgent, please help ASAP",Billing,high
+"Can you explain the extra $12.00 fee on my latest bill - this is very time sensitive, please help ASAP",Billing,high
+Need a copy of my last three invoices for tax purposes,Billing,medium
+I'm being charged for a plan I already downgraded from,Billing,high
+Why was I billed after canceling my Starter plan,Billing,low
+Subscription renewed automatically without my consent,Billing,medium
+What is the difference between the Enterprise and enterprise plans,Product,low
+Refund request for order #10065 that never arrived,Billing,low
+How do I update my shipping address to Delhi,Account,low
+"My invoice shows an incorrect amount of $99.50, please fix it",Billing,medium
+Subscription renewed automatically without my consent,Billing,low
+Need a copy of my last three invoices for tax purposes,Billing,medium
+Someone else may have accessed my account without permission,Account,medium
+"What is the difference between the Premium and enterprise plans - this is very time sensitive, please help ASAP",Product,medium
+"My account was suspended for no clear reason - this is very time sensitive, please help ASAP",Account,medium
+Getting a 500 error when I try to upload a PDF file,Technical,medium
+"Can I customize the analytics dashboard layout - this is critical, please help ASAP",Product,medium
+Can I customize the billing dashboard layout,Product,medium
+"Two-factor authentication code never arrives via email - this is very time sensitive, please help ASAP",Technical,high
