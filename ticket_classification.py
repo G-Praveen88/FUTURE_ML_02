@@ -13,6 +13,8 @@ Pipeline:
   6. Build a simple predict() function for new tickets
 """
 
+import webbrowser
+import os
 import re
 import pandas as pd
 import numpy as np
@@ -123,6 +125,7 @@ for i in range(len(labels_pri)):
 
 plt.tight_layout()
 plt.savefig("classification_output.png", dpi=150)
+webbrowser.open_new_tab("file://" + os.path.abspath("classification_output.png"))
 print("\nSaved chart -> classification_output.png")
 
 # ---------------------------------------------------------
