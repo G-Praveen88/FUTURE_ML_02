@@ -1,4 +1,3 @@
-ticket_text,predicted_category,predicted_priority
-"The website has been down for an hour, this is critical for our business",Technical,high
-Can I get a student discount on the pro plan,Product,low
-I need to update the email linked to my account,Account,low
+Ticket Description,Predicted Category,Predicted Priority
+i paid twice for my order,Billing inquiry,High
+i cannot login to my account,Account request,High
